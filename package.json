@@ -1,0 +1,27 @@
+{
+  "name": "scheduling-",
+  "version": "1.0.0",
+  "description": "scheduling using node-schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvm1912/Scheduling-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/cvm1912/Scheduling-/issues"
+  },
+  "homepage": "https://github.com/cvm1912/Scheduling-#readme",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "nodemon": "^3.1.10"
+  }
+}
