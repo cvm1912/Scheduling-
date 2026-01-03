@@ -13,5 +13,6 @@ schedule.scheduleJob(date, () => {
 
 
 console.log('Scheduler is running...');
+console.log("hello");
 
 
